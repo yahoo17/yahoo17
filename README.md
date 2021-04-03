@@ -8,6 +8,8 @@
   
 
 - 🔭 I’m currently working on Tencent Wechat Group
+
+![](https://img.shields.io/badge/%E7%BC%96%E8%BE%91%E5%99%A8-vscode-brightgreen)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
