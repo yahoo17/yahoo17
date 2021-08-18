@@ -5,7 +5,7 @@
 
 <a href="https://github.com/yahoo17">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yahoo17&theme=buefy&show_icons=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoo17&theme=buefy&layout=compact&hide=javascript,html,shell,makefile" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoo17&theme=buefy&layout=compact&hide=javascript,html,shell,makefile,css" />
  </a>
 
 
