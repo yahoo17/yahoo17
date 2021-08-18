@@ -2,17 +2,11 @@
 
 - I am an intern at **Tencent WXG**, **Tecent TEG**;
 
-<br/>
-
 
 <a href="https://github.com/yahoo17">
-  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
-</a>
-
-<a href="https://github.com/yahoo17">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoo17&theme=buefy&layout=compact" />
-</a>
-
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yahoo17&theme=buefy&show_icons=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoo17&theme=buefy&layout=compact" />
+ </a>
 
 
 <!--
