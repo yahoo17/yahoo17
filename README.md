@@ -6,7 +6,10 @@
 
 
 <a href="https://github.com/yahoo17">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
+  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
+</a>
+
+<a href="https://github.com/yahoo17">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoo17&theme=buefy&layout=compact" />
 </a>
 
