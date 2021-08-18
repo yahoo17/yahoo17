@@ -3,10 +3,10 @@
 - I am an intern at **Tencent WXG**, **Tecent TEG**;
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://github.com/yahoo17">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=yahoo17&theme=buefy&show_icons=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoo17&langs_count=8" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoo17&theme=buefy&layout=compact" />
 </a>
 
