@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, there are Yan hao</h1>
 
-- I used to be an intern in **Tencent WXG**, **Alibaba Cloud**;
+- I used to be an intern in **Tencent WXG**, **Tecent TEG**;
 
 <br/>
 
 <a href="https://github.com/yahoo17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yahoo17&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoo17&theme=buefy&layout=compact" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=yahoo17&theme=buefy&show_icons=true" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoo17&theme=buefy&layout=compact" />
 </a>
 
 <!--
