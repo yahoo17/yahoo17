@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, there are Yan hao</h1>
 
 - I used to be an intern at **Tencent WXG**, **Tecent TEG**;
-- Now as a UCAS phd candidate, Interesting in **Computer Vision**, Machine Leaning, **Multimodal**, Distributed System, Operating System
+- Now as a Univ of Chinese Acadamic Of Science Phd candidate, Interesting in **Computer Vision**, Machine Leaning, **Multimodal**, Distributed System, Operating System
 
 
 <a href="https://github.com/yahoo17">
