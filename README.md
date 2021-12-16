@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, there are Yan hao</h1>
+<h1 align="center">Hi 👋, there is Yan hao</h1>
 
 
 Hi,I am Yan hao👋. An undergraduate.
