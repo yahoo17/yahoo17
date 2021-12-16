@@ -2,15 +2,18 @@
 
 - I used to be an intern at **Tencent WXG**, **Tecent TEG**;
 - Now as a **Univ of Chinese Acadamic Of Science** **Phd candidate**, 
-- Interesting in **Computer Vision**, Machine Leaning, **Multimodal**, Distributed System, Operating System
 
-Hi,I am Jayice👋. An undergraduate.
 
+Hi,I am Yan hao👋. An undergraduate.
+
+Interesting in **Computer Vision**, Machine Leaning, **Multimodal**, Distributed System, Operating System
+
+Can code in C++/Python/Java/Golang, but just a noob.
 Interested in Database,Storage and Distributed System, But just know little.
-Can code in Rust/C++/Java/Golang, but just a noob.
+
 🌱 I’m currently learning Rust & Distributed System
 
-📫 Reach me: jayice666
+📫 Reach me: yanhaoccc
 
 <!-- <a href="https://github.com/yahoo17">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yahoo17&theme=buefy&show_icons=true" />
