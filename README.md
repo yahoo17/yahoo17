@@ -4,13 +4,23 @@
 Hi,I am Yan hao👋. An undergraduate.
 
 
-Interesting in **Computer Vision**,  **Multimodal**, Distributed System, But just know little.
+<!-- Interested in **Computer Vision**,  **Multimodal**, Distributed System, But just know little. -->
 
 Can code in C++/Python/Java/Golang, but just a noob.
 
-
 🌱 I’m currently learning Computer Vision & Multimodal
-📫 Reach me: yanhaoccc
 
 
-Tag:Tencent WXG, Tecent TEG, UCAS Phd candidate,
+
+📫 Reach me: yanhaoccc(wechat)
+📮 Email： yanhaoo2000@gmail.com
+
+
+🏷️Previous Tag:
+
+Tencent WXG Intern🍀,
+
+Tecent TEG Intern😬, 
+
+UCAS Phd candidate🧙‍♀️,
+
