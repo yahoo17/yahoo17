@@ -12,7 +12,7 @@ Can code in C++/Python/Java/Golang, but just a noob.
 
 
 
-📫 Reach me: yanhaoccc(wechat)
+📫 feel free to send me email
 📮 Email： yanhaoo2000@gmail.com
 
 
