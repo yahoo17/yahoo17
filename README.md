@@ -6,7 +6,7 @@ Hi,I am Yan hao👋. An undergraduate.
 
 <!-- Interested in **Computer Vision**,  **Multimodal**, Distributed System, But just know little. -->
 
-Can code in C++/Python/Java/Golang, but just a noob.
+Can code with C++/Python/Java/Golang.
 
 🌱 I’m currently learning Computer Vision & Multimodal
 
